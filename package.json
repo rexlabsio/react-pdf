@@ -1,5 +1,5 @@
 {
-  "name": "react-pdf",
+  "name": "@rexlabs/react-pdf",
   "version": "2.1.7",
   "description": "Easily display PDF files in your React application.",
   "main": "build/entry.js",
